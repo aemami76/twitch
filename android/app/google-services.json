@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304880113182",
+    "project_id": "tiktok-a4bba",
+    "storage_bucket": "tiktok-a4bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304880113182:android:7a54139cc864d72fe9000f",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRSRlfsch8bR-I9Supm1W0iCQLnrba8u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304880113182:android:5f302d923d248675e9000f",
+        "android_client_info": {
+          "package_name": "com.example.twich_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRSRlfsch8bR-I9Supm1W0iCQLnrba8u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
